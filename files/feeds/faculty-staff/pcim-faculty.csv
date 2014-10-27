@@ -1,0 +1,72 @@
+GUID,First Name,Middle,Last Name,Suffix,Professional Title,School,Affiliation
+1,Joseph, F.,Audette,MD,Assistant Clinical Professor of Medicine,Harvard Medical School,Harvard Medical School
+2,Meridale,V.,Baggett,MD,Instructor in Medicine,Harvard Medical School,Harvard Medical School
+3,Aaron,L.,Baggish,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+4,Carol,K.,Bates,MD,Associate Professor of Medicine,Harvard Medical School,Harvard Medical School
+5,Ishir,,Bhan,MD,Instructor in Medicine,Harvard Medical School,Harvard Medical School
+6,Matt,T.,Bianchi,"MD, PhD",Assistant Professor of Neurology,Harvard Medical School,Harvard Medical School
+7,Joanne,,Borg-Stein,MD,Associate Professor of Physical Medicine and Rehabilitation,Harvard Medical School,Harvard Medical School
+8,Gary,J.,Brenner,"MD, PhD",Assistant Professor of Anesthesia,Harvard Medical School,Harvard Medical School
+9,Rebecca,C.,Burch,MD,Instructor in Neurology,Harvard Medical School,Harvard Medical School
+10,Eva,H.,Chittenden,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+11,Sanjiv,,Chopra,"MD, MACP","Professor of Medicine, Faculty Dean for Continuing Education",Harvard Medical School,Harvard Medical School
+12,Benjamin,T.,Davis,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+13,Charles,S.,Day,"MD, MBA","Associate Professor of Orthopedic Surgery, Director, Orthopedic Curriculum",Harvard Medical School,Harvard Medical School
+14,G.,,"William Dec, Jr.",MD,Roman W. DeSanctis Professor of Medicine,Harvard Medical School,Harvard Medical School
+15,Brian,H.,Eisner,MD,Assistant Professor of Surgery,Harvard Medical School,Harvard Medical School
+16,James,M.,Ellison,MD,Associate Professor of Psychiatry,Harvard Medical School,Harvard Medical School
+17,Anne,D.,Emmerich,MD,Clinical Instructor in Psychiatry,Harvard Medical School,Harvard Medical School
+18,Christopher,H.,Fanta,MD,Professor of Medicine,Harvard Medical School,Harvard Medical School
+19,Adam,S.,Feldman,MD,Assistant Professor of Surgery,Harvard Medical School,Harvard Medical School
+20,Donna,,Felsenstein,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+21,Robert,P.,Friday,"MD, PhD",Instructor in Medicine,Harvard Medical School,Harvard Medical School
+22,Patricia,A.,Gibbons,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+23,Thomas,J.,Gill,MD,Associate Professor of Orthopedic Surgery,Harvard Medical School,Harvard Medical School
+24,John,D.,Goodson,MD,Associate Professor of Medicine,Harvard Medical School,Harvard Medical School
+25,Stacey,T.,Gray,MD,Assistant Professor of Otology and Laryngology,Harvard Medical School,Harvard Medical School
+26,Todd,R.,Griswold,MD,Assistant Professor of Psychiatry,Harvard Medical School,Harvard Medical School
+27,Charles,J.,Hatem,MD,Harold Amos Distinguished Academy Professor; Professor of Medicine,Harvard Medical School,Harvard Medical School
+28,Galen,V.,Henderson,MD,Assistant Professor of Neurology,Harvard Medical School,Harvard Medical School
+29,Kevin,P.,Hill,MD,Assistant Professor of Psychiatry,Harvard Medical School,Harvard Medical School
+30,Eric,M.,Isselbacher,MD,Associate Professor of Medicine,Harvard Medical School,Harvard Medical School
+31,Michael,R.,Jaff,DO,Professor of Medicine,Harvard Medical School,Harvard Medical School
+32,Lee,M.,Kaplan,"MD, PhD",Associate Professor of Medicine,Harvard Medical School,Harvard Medical School
+33,William,M.,Kettyle,MD,Assistant Clinical Professor of Medicine,Harvard Medical School,Harvard Medical School
+34,Ramin,,Khorasani,"MD, MPH",Associate Professor of Radiology,Harvard Medical School,Harvard Medical School
+35,Joshua,,Korzenik,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+36,Daniela,,Kroshinsky,"MD, MPH",Assistant Professor of Dermatology,Harvard Medical School,Harvard Medical School
+37,Braden,,Kuo,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+38,Regina,C.,LaRocque,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+39,James,A.,MacLean,MD,Assistant Clinical Professor of Medicine,Harvard Medical School,Harvard Medical School
+40,Kirsten,K.,Meisinger,MD,Clinical Instructor in Population Medicine and Assistant Professor at,Tufts Medical School,Harvard Medical School
+41,David,M.,Nathan,MD,Professor of Medicine,Harvard Medical School,Harvard Medical School
+42,Walter,J.,O'Donnell,MD ,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+43,J.,Carl,Pallais,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+44,Richard,J.,Pels,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+45,Jorge,,Plutzky,MD,Associate Professor of Medicine,Harvard Medical School,Harvard Medical School
+46,Jennifer,E.,Potter,MD,Associate Professor of Medicine,Harvard Medical School,Harvard Medical School
+47,Alberto,,Puig,"MD, PhD",Associate Professor of Medicine,Harvard Medical School,Harvard Medical School
+48,Alicia,M.,Quesnel,MD,Instructor in Otology and Laryngology,Harvard Medical School,Harvard Medical School
+49,Claudia,U.,Richter,MD,Clinical Instructor in Ophthalmology,Harvard Medical School,Harvard Medical School
+50,Nancy,A.,Rigotti,MD,Professor of Medicine,Harvard Medical School,Harvard Medical School
+51,David,M.,Roll,MD,Instructor in Medicine,Harvard Medical School,Harvard Medical School
+52,Jeremy,N.,Ruskin,MD,Associate Professor of Medicine,Harvard Medical School,Harvard Medical School
+53,David,P.,Ryan,MD,Associate Professor of Medicine,Harvard Medical School,Harvard Medical School
+54,Martin,A.,Samuels,MD,Miriam Sydney Joseph Professor of Neurology,Harvard Medical School,Harvard Medical School
+55,David,,Shein,MD,Instructor in Medicine,Harvard Medical School,Harvard Medical School
+56,Jane,S.,Sillman,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+57,Gerald,W.,Smetana,MD,Associate Professor of Medicine,Harvard Medical School,Harvard Medical School
+58,U.,Shivraj,Sohur,"MD, PhD",Instructor in Neurology,Harvard Medical School,Harvard Medical School
+59,David,J. R.,Steele,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+60,Joji,,Suzuki,MD,Instructor in Psychiatry,Harvard Medical School,Harvard Medical School
+61,James,K.,Takayesu,MD,Assistant Professor of Surgery,Harvard Medical School,Harvard Medical School
+62,George,H.,Theodore,MD,Instructor in Orthopedic Surgery,Harvard Medical School,Harvard Medical School
+63,Nadine,M.,Tung,MD,Associate Professor of Medicine,Harvard Medical School,Harvard Medical School
+64,May,M.,Wakamatsu,MD,"Assistant Professor of Obstetrics, Gynecology and Reproductive Biology",Harvard Medical School,Harvard Medical School
+65,Lisa,,Weissmann,MD,Assistant Professor of Medicine,Harvard Medical School,Harvard Medical School
+66,Ricardo,I.,Wellisch,MD,Instructor in Medicine,Harvard Medical School,Harvard Medical School
+67,Douglas,,Wright,"MD, PhD",Instructor in Medicine,Harvard Medical School,Harvard Medical School
+68,Bertram,,Zarins,MD,Augustus Thorndike Clinical Professor of Orthopaedic Surgery,Harvard Medical School,Harvard Medical School
+69,Andrew,E.,Budson,MD,Professor of Neurology,Boston University School of Medicine,Guest Faculty
+70,Frank,J.,Domino,MD,Professor and Family Medicine Clerkship Director,University of Massachusetts Medical School,Guest Faculty
+71,Honor,,MacNaughton,MD,"Assistant Professor, Department of Family Medicine",Tufts University School of Medicine,Guest Faculty

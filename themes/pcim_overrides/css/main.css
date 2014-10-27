@@ -1,0 +1,43 @@
+/*
+Custom CSS styles that override base theme go here.
+*/
+
+.front .view-hero-items .hero-title {
+  display:none;
+}
+
+.front .view-hero-items .hero-copy {
+  display:block;
+  float:left;
+  padding-top:30px;
+}
+
+.front .view-hero-items .views-field-field-hero-image {
+  margin:0;
+  float:right;
+}
+    
+@media (max-width:900px) {
+  .front .region-secondary-content .hero-copy {
+      padding-top:0px;
+  }
+}
+
+@media (max-width:570px) {
+  .header-block p.course-slogan {
+    font-size:26px;
+  }
+}
+
+@media (min-width:400px) {
+
+  ul.bullet-two-col {
+    float:left;
+    width:28%;
+  }
+
+  .bullet-two-col.first {
+    margin-right:20px;
+  }
+
+}
