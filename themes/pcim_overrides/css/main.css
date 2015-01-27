@@ -2,19 +2,23 @@
 Custom CSS styles that override base theme go here.
 */
 
-.front .view-hero-items .hero-title {
+.front .view-hero-items .hero-title,
+.front .view-hero-items .hero-copy {
   display:none;
 }
 
+/*
 .front .view-hero-items .hero-copy {
   display:block;
   float:left;
   padding-top:30px;
 }
-
+*/
 .front .view-hero-items .views-field-field-hero-image {
-  margin:0;
-  float:right;
+  /*margin:0;
+  float:right;*/
+  width:100%;
+  float:none;
 }
     
 @media (max-width:900px) {
